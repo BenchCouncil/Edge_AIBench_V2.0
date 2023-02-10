@@ -1,0 +1,2 @@
+model_checkpoint_path: "traffic_sign_classifier_20191125_010558_512_0.002_0.7"
+all_model_checkpoint_paths: "traffic_sign_classifier_20191125_010558_512_0.002_0.7"

@@ -1,0 +1,12 @@
+image_name,label_id
+web_images_test/double_bend.png, 21
+web_images_test/end_speed_limit.png, 32
+web_images_test/pedestrian.jpg, 27
+web_images_test/speed_limit_30.png, 1
+web_images_test/speed_limit_50.png, 2
+web_images_test/speed_limit_70.jpg, 4
+web_images_test/speed_limit_80.png, 5
+web_images_test/speed_limit_80_2.png, 5
+web_images_test/stop.png, 14
+web_images_test/stop_2.png, 14
+web_images_test/yield.png, 13
