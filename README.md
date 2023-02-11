@@ -12,7 +12,8 @@ No2: The *traffic light classification* task uses a CNN model as the deep learni
 
 No3: The *road sign classification* task uses a CNN deep learning model based on the LeNet framework and the German Traffic Sign Recognition Benchmark (GTRB) as the dataset, and the task classifies 43 classes of traffic signs.
 
-No4: 
+
+No4: The lane keeping task used a CNN model based on a self-attention distillation mechanism and selected Cu-Lane as a real-world dataset, which contains 3268 well-labeled training data and 358 validation date.
 
 ## Measurement
 
