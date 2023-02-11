@@ -12,6 +12,16 @@ No3:The *road sign classification* task uses a CNN deep learning model based on 
 
 No4:
 
+## Measurements
+
+*Tail Latency of the Whole Scenario*
+
+Autonomous driving scenarios are very demanding in terms of latency, so we choose latency as a quality of service metric for this scenario benchmark. We break down the whole scenario latency to each task module to discover which modules are the primary contributors to latency in the whole scenario
+
+
+*Hotspot Function Analysis*
+
+Because the majority of the tasks in autonomous driving scenarios employ deep learning models, which require the high performance of the onboard chips, as a result, we decomposed the execution time of GPUs using the profiling tool [nvprof]( https://docs.nvidia.com/cuda/profiler-usersguid) offered by Nvidia. Then we analyze those hotspot functions.
 
 ## Reference:
 
