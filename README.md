@@ -1,5 +1,7 @@
-## Edge AIBench V2.0
+# Edge AIBench V2.0
 **The Edge AIBench V2.0 is a benchmarking tool for Edge AIBench systems**
+
+## Workload
 
 The Edge AIBench V2.0 includes 4 workloads
 
@@ -12,7 +14,7 @@ No3:The *road sign classification* task uses a CNN deep learning model based on 
 
 No4:
 
-## Measurements
+## Measurement
 
 *Tail Latency of the Whole Scenario*
 
